@@ -1,2 +1,2 @@
 # php-weather-api
-Basically a class to use the Weather API
+Simple Class to use with Open Weather.
