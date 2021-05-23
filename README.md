@@ -5,4 +5,4 @@ It requires a API key (You can get at your account on Open Weather).
 
 ---
 
-Icons by: Dorova Interactive.
+Icons by: Dorova Interactive - https://www.dovora.com/resources/weather-icons/.
