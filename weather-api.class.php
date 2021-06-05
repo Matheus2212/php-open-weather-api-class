@@ -22,7 +22,7 @@ class Weather
                                 "reverse" => "geo/1.0/reverse?lat={lat}&lon={lon}&limit={limit}&appid={API_key}",
                         ),
                         "getForecast" => array(
-                                "current" => "data/2.5/weather?q={city}&appid={API_key}",
+                                "current" => "data/2.5/weather?q={city}&appid={API_key}&units=metric",
                                 "one-call" => "data/2.5/onecall?lat={lat}&lon={lon}&appid={API_key}&units=metric",
                         )
                 );
