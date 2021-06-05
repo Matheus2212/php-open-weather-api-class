@@ -2,7 +2,7 @@
 
 class Weather
 {
-        private static $API_KEY = "YOUR API KEY HERE";
+        private static $API_KEY = "a8cd603db42970f2624ac831b02567f4";
 
         private static function getAPIKey()
         {

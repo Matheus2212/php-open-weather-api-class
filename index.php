@@ -17,6 +17,7 @@
 
         $weather = new Weather('geocode');
 
+        /*
         echo "<pre>";
         print_r($weather->getCoordinates("Concórdia", "BR"));
         echo "</pre>";
@@ -28,9 +29,9 @@
         echo "</pre>";
 
         echo "<hr/>";
-
+*/
         echo "<pre>";
-        print_r($weather->getForecast("Concórdia", "BR", false));
+        print_r($weather->getForecast("Concórdia", "BR"));
         echo "</pre>";
 
         ?>
